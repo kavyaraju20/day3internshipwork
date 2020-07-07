@@ -1,0 +1,39 @@
+hr{
+    border:1px solid grey;
+}
+h4{
+    text-align: center;
+}
+.first{
+    height:150px;
+    
+    background:teal;
+    float:left;
+}
+.second{
+    height:150px;
+   
+    background: thistle;
+    float:left;
+}
+.third{
+    height:150px;
+   
+    background: hotpink;
+    float: left;
+}
+.fourth{
+    height:150px;
+    background: yellow;
+}
+.fifth{
+    height:150px;
+    background: indigo;
+}
+.sixth{
+    height:150px;
+    background: palevioletred;
+}
+h2{
+    font-weight: bold;
+}
